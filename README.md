@@ -23,31 +23,6 @@ Me chamo Richard Junior, tenho 22 anos e atualmente curso o Bacharelado Interdis
 
 ---
 
-### 📫 Conecte-se comigo
-
-<a href="https://www.linkedin.com/in/richard-junior-3b12a9348/" target="_blank">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-    alt="LinkedIn" 
-    title="LinkedIn"
-    width="40px" 
-    style="margin-right: 10px; padding: 5px;"
-  />
-</a>
-<a href="mailto:richard.junior1601@hotmail.com" target="_blank">
-  <img 
-    src="https://img.icons8.com/ios-filled/50/000000/new-post.png" 
-    alt="E-mail" 
-    title="E-mail"
-    width="40px" 
-    style="margin-right: 10px; padding: 5px;"
-  />
-</a>
-
-<br/><br/>
-
----
-
 ### 📈 GitHub Stats
 
 ![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1chardJr&show_icons=true&theme=tokyonight)
