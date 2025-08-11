@@ -2,7 +2,7 @@
 
 **`AI enthusiast`**
 
-Me chamo Richard Junior, tenho 22 anos e atualmente curso o Bacharelado Interdisciplinar em Ciência e Tecnologia na UNIFESP. Sou apaixonado por tecnologia — especialmente Inteligência Artificial. Tenho afinidade com Python e SQL, e também atuo como desenvolvedor frontend voluntário no [Instituto Vida para Todos](https://github.com/InstitutoVidaParaTodosOficial).
+Me chamo Richard Junior, tenho 22 anos e fiz Bacharelado Interdisciplinar em Ciência e Tecnologia na UNIFESP. Sou apaixonado por tecnologia — especialmente Inteligência Artificial. Tenho afinidade com Python e SQL, e também atuo como desenvolvedor frontend voluntário no [Instituto Vida para Todos](https://github.com/InstitutoVidaParaTodosOficial).
 
 ---
 
